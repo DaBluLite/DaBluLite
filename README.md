@@ -4,3 +4,4 @@ Hello, I’m <strong>DaBluLite</strong>, a Javascript, CSS and HTML Developer. H
 * Addons for [Cyan](https://dablulite.github.io/Cyan/Addons) and [MobileV2](https://dablulite.github.io/MobileV2/Addons)
 * My BetterDiscord theme based on the 2023 TabsV2 experiment for mobile, [MobileV2](https://github.com/DaBluLite/MobileV2)
 * My list of [CSS Snippets for Discord](https://github.com/DaBluLite/css-snippets)
+* My collection of color palletes for Discord and Supported Themes, [DiscordColorways](https://github.com/DaBluLite/DiscordColorways)
